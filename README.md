@@ -3,6 +3,7 @@
 <center>
     <a href="https://github.com/givkashi/LLM-Models-with-Huggingface-and-Langchain-Library/blob/main/LLM_HF_LangChain.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </center>
+<img src="https://github.com/givkashi/LLM-Models-with-Huggingface-and-Langchain-Library/blob/main/img.png" width="60%" height="60%"/>
 
 ## Overview
 
